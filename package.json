@@ -1,0 +1,32 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "a tool to extract information from a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooxudong/web-scrapper.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "scraper"
+  ],
+  "author": "wooxudong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wooxudong/web-scrapper/issues"
+  },
+  "homepage": "https://github.com/wooxudong/web-scrapper#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "jest": "^26.6.3"
+  }
+}
