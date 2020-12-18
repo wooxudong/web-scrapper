@@ -105,3 +105,6 @@ dist
 
 #intellij files
 .idea/
+
+#js files
+src/**/*.js
